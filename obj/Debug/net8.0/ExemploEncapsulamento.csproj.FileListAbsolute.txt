@@ -1,0 +1,14 @@
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.AssemblyInfo.cs
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\bin\Debug\net8.0\ExemploEncapsulamento.exe
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\bin\Debug\net8.0\ExemploEncapsulamento.deps.json
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\bin\Debug\net8.0\ExemploEncapsulamento.runtimeconfig.json
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\bin\Debug\net8.0\ExemploEncapsulamento.dll
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\bin\Debug\net8.0\ExemploEncapsulamento.pdb
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.dll
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\refint\ExemploEncapsulamento.dll
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.pdb
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ExemploEncapsulamento.genruntimeconfig.cache
+C:\Users\2023202060022\Downloads\ExemploEncapsulamento\obj\Debug\net8.0\ref\ExemploEncapsulamento.dll
